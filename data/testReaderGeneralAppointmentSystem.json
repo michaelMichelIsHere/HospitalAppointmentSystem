@@ -1,0 +1,17 @@
+{
+  "name": "UBC Vancouver Student Hospital",
+  "appointment list": [
+    {"Student number": 11111111},
+    {"Student number": 22222222},
+    {"Student number": 33333333},
+    {"Student number": 44444444},
+    {"Student number": 55555555},
+    {"Student number": 66666666},
+    {"Student number": 77777777},
+    {"Student number": 88888888},
+    {"Student number": 99999999}
+  ],
+  "wait list": [
+    {"Student number": 12345678}
+  ]
+}
