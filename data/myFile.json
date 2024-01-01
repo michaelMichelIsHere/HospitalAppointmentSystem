@@ -1,0 +1,9 @@
+{
+    "name": "UBC Hospital",
+    "appointment list": [
+        {"Student number": 12344444},
+        null,
+        null
+    ],
+    "wait list": []
+}
