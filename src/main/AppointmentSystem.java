@@ -12,6 +12,7 @@ import java.util.List;
 // as each appointment time is 1 hour,
 // and doctors work from 8:00 to 17:00 every day,
 // Saving and Loading code influenced by JsonSerializationDemo https://github.com/stleary/JSON-java
+
 public class AppointmentSystem implements Writable {
     private static final int TOTAL_SIZE = 9;
     private String hospitalName;
